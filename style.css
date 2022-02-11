@@ -1,0 +1,28 @@
+.banner-image{
+    width: 100%;
+    max-width: 400px;
+}
+
+.font-weight-bold{
+    font-weight: 500;
+}
+
+.education-logo{
+    width: 100px;
+}
+
+
+.projects-one{
+    width: 90%;
+    max-width:250px;
+}
+
+
+.projects-one:hover{
+    transform: scale(1.1);
+    cursor: pointer;
+}
+
+ul{
+    list-style: none;
+}
